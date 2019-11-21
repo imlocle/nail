@@ -1,3 +1,5 @@
+// Not using anymore because it's all in diary.dart
+
 // import 'package:flutter/material.dart';
 // import 'package:n_r_d/models/nailArt.dart';
 // import 'package:n_r_d/sqlite/dbHelper.dart';
